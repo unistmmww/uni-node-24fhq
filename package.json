@@ -1,0 +1,24 @@
+{
+    "name": "@unistmm/uni-node-24fhq",
+    "version": "1.0.0",
+    "description": "Convert to the text you want.",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/unistmm/uni-node-24fhq.git"
+    },
+    "keywords": [
+        "string",
+        "convert"
+    ],
+    "author": "unistmm",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/unistmm/uni-node-24fhq/issues"
+    },
+    "homepage": "https://github.com/unistmm/uni-node-24fhq#readme",
+    "dependencies": {
+        "@vcvckw/convstr": "^1.0.11",
+        "@unistmm/uni-node-24fhq": "^1.0.0"
+    }
+}
